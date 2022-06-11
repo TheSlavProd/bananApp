@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bananApp/static/css/main.8aff8f05.css",
+    "main.js": "/bananApp/static/js/main.a2de6b1f.js",
+    "static/js/787.a5a00b74.chunk.js": "/bananApp/static/js/787.a5a00b74.chunk.js",
+    "static/media/illus3.png": "/bananApp/static/media/illus3.be4bf465713be953757d.png",
+    "static/media/illus2.png": "/bananApp/static/media/illus2.eaed7e1a952d3ae78f84.png",
+    "static/media/illus4.png": "/bananApp/static/media/illus4.4956a40f641b0d84552f.png",
+    "static/media/illustration.png": "/bananApp/static/media/illustration.fdead8ce5fad570e5c88.png",
+    "index.html": "/bananApp/index.html",
+    "main.8aff8f05.css.map": "/bananApp/static/css/main.8aff8f05.css.map",
+    "main.a2de6b1f.js.map": "/bananApp/static/js/main.a2de6b1f.js.map",
+    "787.a5a00b74.chunk.js.map": "/bananApp/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aff8f05.css",
+    "static/js/main.a2de6b1f.js"
+  ]
+}
