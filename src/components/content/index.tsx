@@ -7,7 +7,7 @@ const ContentPage = styled.div`
   width: 100%;
   padding: 0 99px;
   text-align: center;
-  background: #fff4ee;
+  //background: #fff4ee;
 `;
 
 const ContentMain = styled.div`
