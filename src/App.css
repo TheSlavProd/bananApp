@@ -1,0 +1,16 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f2cbbf;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+}
